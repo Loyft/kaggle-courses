@@ -1,2 +1,3 @@
 # kaggle-courses
-kaggle courses for machine learning
+
+notes and notebooks from kaggles machine learning course
